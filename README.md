@@ -5,4 +5,10 @@
 
 也可以用下面的链接  
 https://后端地址/sub?target=clash&url=机场订阅地址A|机场订阅地址B&insert=false&config=配置链接&filename=自定义文件名&interval=86400&emoji=false&udp=true&expand=true&new_name=true  
-订阅地址和配置链接都需要URLEncode。
+订阅地址和配置链接都需要URLEncode。  
+https://cdn.jsdelivr.net/gh/Voya9e/Clash-meta-Config-sub@main/config.ini  
+https://raw.githubusercontent.com/Voya9e/Clash-meta-Config-sub/main/config.ini  
+
+URLEncode  
+https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FVoya9e%2FClash-meta-Config-sub%40main%2Fconfig.ini  
+https%3A%2F%2Fraw.githubusercontent.com%2FVoya9e%2FClash-meta-Config-sub%2Fmain%2Fconfig.ini
