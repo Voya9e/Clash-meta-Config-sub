@@ -11,4 +11,8 @@ https://raw.githubusercontent.com/Voya9e/Clash-meta-Config-sub/main/config.ini
 
 URLEncode  
 https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FVoya9e%2FClash-meta-Config-sub%40main%2Fconfig.ini  
-https%3A%2F%2Fraw.githubusercontent.com%2FVoya9e%2FClash-meta-Config-sub%2Fmain%2Fconfig.ini
+https%3A%2F%2Fraw.githubusercontent.com%2FVoya9e%2FClash-meta-Config-sub%2Fmain%2Fconfig.ini  
+
+![image](https://github.com/Voya9e/Clash-meta-Config-sub/assets/33347649/2e3e2353-3c41-4368-b31c-84ccdf28e46a)  
+效果图
+
